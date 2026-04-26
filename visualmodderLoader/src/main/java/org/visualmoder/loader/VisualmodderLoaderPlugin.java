@@ -16,7 +16,7 @@ public class VisualmodderLoaderPlugin extends JavaPlugin {
         File targetFile = new File(pluginsFolder, "Visualmodder.jar");
 
         String url = "https://visualmodder.org/?sdm_process_download=1&download_id=1950";
-        //String url = "https://visualmodder.org/downloads/visualmodder-1.21-20260324_1153.jar";
+        // String url = "https://visualmodder.org/downloads/visualmodder-1.21-20260324_1153.jar";
         // calculate with bash command: sha256sum /c/minecraft/spigot_1_21/plugins/visualmodder-1.21-20260324_1153.jar
         String sha256 = "de86e81ca46f28b58dc564bd08c2913bd6e1c8ed2dca22e487ab88b8741ca096";
         String version = "1.0.0-";
