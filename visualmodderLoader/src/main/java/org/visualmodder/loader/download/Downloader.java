@@ -1,4 +1,4 @@
-package org.visualmoder.loader.download;
+package org.visualmodder.loader.download;
 
 import org.bukkit.plugin.java.JavaPlugin;
 

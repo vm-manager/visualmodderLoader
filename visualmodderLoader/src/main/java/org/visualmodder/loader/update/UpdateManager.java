@@ -1,8 +1,8 @@
-package org.visualmoder.loader.update;
+package org.visualmodder.loader.update;
 
 import org.bukkit.plugin.java.JavaPlugin;
-import org.visualmoder.loader.download.Downloader;
-import org.visualmoder.loader.security.HashUtil;
+import org.visualmodder.loader.download.Downloader;
+import org.visualmodder.loader.security.HashUtil;
 
 import java.io.File;
 

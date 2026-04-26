@@ -1,8 +1,8 @@
-package org.visualmoder.loader;
+package org.visualmodder.loader;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.visualmoder.loader.update.UpdateManager;
+import org.visualmodder.loader.update.UpdateManager;
 
 import java.io.File;
 

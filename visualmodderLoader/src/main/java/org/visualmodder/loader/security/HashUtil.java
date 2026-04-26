@@ -1,4 +1,4 @@
-package org.visualmoder.loader.security;
+package org.visualmodder.loader.security;
 
 import java.io.File;
 import java.io.FileInputStream;
