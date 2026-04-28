@@ -1,4 +1,4 @@
 name: VisualmodderLoader
-main: org.visualmoder.loader.VisualmodderLoaderPlugin
+main: org.visualmodder.loader.VisualmodderLoaderPlugin
 version: "1.0"
 api-version: "1.20"

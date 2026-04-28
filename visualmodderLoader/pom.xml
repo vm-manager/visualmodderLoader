@@ -5,9 +5,9 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>VisualmodderGroup</groupId>
-  <artifactId>VisualmodderLoad</artifactId>
+  <artifactId>VisualmodderLoader</artifactId>
 
-    <version>1.0</version>
+    <version>1.21-20260324_1153</version>
 
     <repositories>
         <repository>

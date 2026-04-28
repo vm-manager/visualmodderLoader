@@ -10,7 +10,6 @@ public class VisualmodderLoaderPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        saveDefaultConfig();
 
         File pluginsFolder = getDataFolder().getParentFile();
         File targetFile = new File(pluginsFolder, "Visualmodder.jar");
